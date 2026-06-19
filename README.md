@@ -25,7 +25,8 @@ Payment success rate remains above 95%.
 Millennials and Gen X contribute the largest share of transactions.
 Dashboard Preview
 
-![Uploading phonepe-transaction-analytics-dashboard.png.png…]()
+<img width="1336" height="747" alt="phonepe-transaction-analytics-dashboard png" src="https://github.com/user-attachments/assets/cfa56422-f773-4534-9681-e4b6ed669f40" />
+
 
 Author
 
